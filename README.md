@@ -20,4 +20,5 @@ python src/local_classify_test.py --img_dir=data
 ## Output
 
 Inference results store on `outputs` dir. Here is an example.
+
 ![inference result of newspaper](outputs/newspaper.jpg "Newspaper")
